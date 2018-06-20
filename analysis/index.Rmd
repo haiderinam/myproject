@@ -7,3 +7,4 @@ output:
 ---
 
 Welcome to my research website.
+You can learn more about my project here [Link](batch-effect-part2.html)
